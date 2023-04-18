@@ -1,6 +1,6 @@
 # My-CEH-Practical-Notes
 
-![image](https://user-images.githubusercontent.com/107381574/232662574-cf89118c-f06a-449d-ab5e-c9f9fc6332b9.png)
+![CEH-Practical-Logo](https://user-images.githubusercontent.com/107381574/232662867-e9a5696d-1d2b-4627-85a8-07b0fac84893.jpg)
 
  
 https://github.com/System-CTL/CEH_CHEAT_SHEET
